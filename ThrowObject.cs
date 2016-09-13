@@ -1,6 +1,8 @@
+// SCRIPT TO APPLY FORCE TO THE BALL TO SIMULATE THROWING THE BALL
+
 using UnityEngine;
 using System.Collections;
-// SCRIPT TO APPLY FORCE TO THE BALL TO SIMULATE THROWING THE BALL
+
 public class ThrowObject : MonoBehaviour {
 
 	[SerializeField]
@@ -129,4 +131,4 @@ public class ThrowObject : MonoBehaviour {
 
 	}
 
-} 
+}
